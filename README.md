@@ -7,7 +7,7 @@
 - **Base de données** : MySQL
 - **Frontend** : HTML, CSS, Bootstrap, JavaScript
 - **Serveur d'application** : Apache Tomcat
-- **Outils de développement** : Eclipse/IntelliJ
+- **Outils de développement** : IntelliJ
 
 ## Fonctionnalités
 - **Opérations CRUD** pour les Membres, Entraîneurs et Séances.
